@@ -3,8 +3,9 @@ Computer Vision and Image Processing
 
 > The purpose of this repository is to understand image processing and use it with different libraries.
 
-> IDE : VSCode
-> OS : Linux / Ubuntu
+> IDE : VSCode <br/>
+> OS : Linux / Ubuntu <br/>
+> PYTHON
 
 Using libraries:
  - cv2
